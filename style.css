@@ -1,4 +1,4 @@
-header{
+.header{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -6,7 +6,16 @@ header{
     margin: 0;
     padding: 0;
 }
-html{
+header{
+    background-color: rgb(252, 104, 87);
+    padding: 25px;
+}
+body{
     background-color: salmon;
     color: white;
+}
+.container{
+    background-color: white;
+    color: black;
+    padding: 15px;
 }
