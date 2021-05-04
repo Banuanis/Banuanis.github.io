@@ -19,3 +19,10 @@ body{
     color: black;
     padding: 15px;
 }
+.contenu{
+    margin-top: 20px;
+}
+img.center{
+    display: flex;
+    justify-content: center;
+}
