@@ -8,7 +8,7 @@
 }
 header{
     background-color: rgb(252, 104, 87);
-    padding: 25px;
+    padding: 100px;
 }
 body{
     background-color: salmon;
@@ -25,4 +25,15 @@ body{
 img.center{
     display: flex;
     justify-content: center;
+}
+.holycube{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 100px;
+}
+a{
+    text-decoration: none;
+    color: grey;
 }
